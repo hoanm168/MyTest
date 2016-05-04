@@ -24,5 +24,6 @@ namespace MyTest2
         {
             InitializeComponent();
         }
+        public int MyProperty { get; set; }
     }
 }
